@@ -1,11 +1,11 @@
-import React,{Component} from 'react';
+import React ,{Component} from 'react';
 
 class Lottery extends Component{
-  render()
-  {
+  render(){
     return (
-      <h1> Decntralized Lottery Application</h1>
+       <h1> Decentralized Lottery Application </h1>
     )
   }
 }
+
 export default Lottery;
